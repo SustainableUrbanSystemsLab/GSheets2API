@@ -20,8 +20,13 @@ uv run --with jupyter jupyter notebook GSX2JSON-tutorial.ipynb
 
 This repository is configured for Notebook.link with `.nblink/environment.yml`.
 
-- Repo on Notebook.link: `https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/`
-- Tutorial notebook directly: `https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/GSX2JSON-tutorial.ipynb/`
+- Repo in JupyterLab:
+[Open in Notebook.link (Lab)](https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/tree/main/lab/)
+- Open `GSX2JSON-tutorial.ipynb` from the file browser after the workspace loads.
+- Optional direct notebook link:
+[Try opening `GSX2JSON-tutorial.ipynb` directly](https://notebook.link/github/SustainableUrbanSystemsLab/GSheets2API/tree/main/lab/?path=GSX2JSON-tutorial.ipynb)
+
+If a direct `?path=...` link fails with `Failed to download file ... wrong format`, use the repo link above and open the notebook manually.
 
 ## Documentation
 
