@@ -4,6 +4,14 @@
 uv sync
 ```
 
+## Jupyter notebooks
+
+`ipykernel` is included in this project dependencies, so after syncing you can register this environment as a notebook kernel on macOS and Windows:
+
+```bash
+uv run python -m ipykernel install --user --name gsheets2api --display-name "Python (gsheets2api)"
+```
+
 ## Notebook.link
 
 - Repo in JupyterLab:
